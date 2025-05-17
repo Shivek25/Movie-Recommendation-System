@@ -82,7 +82,6 @@ def main_function(movie_name):
 prediction = main_function("Hollow Reed (1996)")
 prediction.head()
 
-# %%
 
 
 
